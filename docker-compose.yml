@@ -1,0 +1,42 @@
+version: '3.9'
+services:
+  db:
+    image: "mcr.microsoft.com/mssql/server:2019-latest"
+    container_name: egesql
+    ports: # not actually needed, because the two services are on the same network
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=y
+      - SA_PASSWORD=Batuhan123!
+    volumes:
+      - sql_data:/var/opt/mssql  
+  worker:
+    image: egebilgiworkerimage
+    container_name: egebilgiworkercontainer
+    build: 
+      context: ./egebilgi_backend/egebilgi_worker
+      dockerfile: Dockerfile
+    depends_on:
+      - db 
+  backend_api:
+    image: egebilgiapiimage
+    container_name: egebilgiapicontainer
+    build: 
+      context: ./egebilgi_backend
+      dockerfile: /EgeBilgi_API/Dockerfile
+    ports:
+      - "5000:80"
+    depends_on:
+      - worker  
+  frontend:
+    image: egebilgifrontendimage    
+    container_name: egebilgifrontendcontainer
+    build: 
+      context: ./egebilgi_frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend_api   
+volumes:
+  sql_data:

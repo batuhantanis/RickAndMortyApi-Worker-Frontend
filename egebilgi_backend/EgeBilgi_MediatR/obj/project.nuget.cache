@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "195I+KMjjIZgY2avFZSIl9duT7OoVcrJyDg0QlnivLSvxn5ObjDor0i8otTHtMq3mzdQM1gMkKY0sKTX7sFqCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_MediatR\\EgeBilgi_MediatR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batut\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\batut\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\batut\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

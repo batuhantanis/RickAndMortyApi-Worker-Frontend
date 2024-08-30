@@ -1,0 +1,15 @@
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\bin\Debug\net7.0\EgeBilgi_Application.deps.json
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\bin\Debug\net7.0\EgeBilgi_Application.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\bin\Debug\net7.0\EgeBilgi_Application.pdb
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\obj\Debug\net7.0\EgeBilgi_Application.csproj.AssemblyReference.cache
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\obj\Debug\net7.0\EgeBilgi_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\obj\Debug\net7.0\EgeBilgi_Application.AssemblyInfoInputs.cache
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\obj\Debug\net7.0\EgeBilgi_Application.AssemblyInfo.cs
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\obj\Debug\net7.0\EgeBilgi_Application.csproj.CoreCompileInputs.cache
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\obj\Debug\net7.0\EgeBilgi_Application.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\obj\Debug\net7.0\refint\EgeBilgi_Application.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\obj\Debug\net7.0\EgeBilgi_Application.pdb
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\obj\Debug\net7.0\ref\EgeBilgi_Application.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\bin\Debug\net7.0\EgeBilgi_Domain.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\bin\Debug\net7.0\EgeBilgi_Domain.pdb
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Application\obj\Debug\net7.0\EgeBilgi_Application.csproj.CopyComplete

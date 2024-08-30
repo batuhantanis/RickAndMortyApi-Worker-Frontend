@@ -1,0 +1,15 @@
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\bin\Debug\net7.0\EgeBilgi_Persistence.deps.json
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\bin\Debug\net7.0\EgeBilgi_Persistence.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\bin\Debug\net7.0\EgeBilgi_Persistence.pdb
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\obj\Debug\net7.0\EgeBilgi_Persistence.csproj.AssemblyReference.cache
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\obj\Debug\net7.0\EgeBilgi_Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\obj\Debug\net7.0\EgeBilgi_Persistence.AssemblyInfoInputs.cache
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\obj\Debug\net7.0\EgeBilgi_Persistence.AssemblyInfo.cs
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\obj\Debug\net7.0\EgeBilgi_Persistence.csproj.CoreCompileInputs.cache
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\obj\Debug\net7.0\EgeBilgi_Persistence.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\obj\Debug\net7.0\refint\EgeBilgi_Persistence.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\obj\Debug\net7.0\EgeBilgi_Persistence.pdb
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\obj\Debug\net7.0\ref\EgeBilgi_Persistence.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\bin\Debug\net7.0\EgeBilgi_Domain.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\bin\Debug\net7.0\EgeBilgi_Domain.pdb
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_Persistence\obj\Debug\net7.0\EgeBilgi_Persistence.csproj.CopyComplete

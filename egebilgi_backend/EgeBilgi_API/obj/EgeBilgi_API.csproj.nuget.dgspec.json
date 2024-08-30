@@ -1,0 +1,419 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_API\\EgeBilgi_API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_API\\EgeBilgi_API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_API\\EgeBilgi_API.csproj",
+        "projectName": "EgeBilgi_API",
+        "projectPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_API\\EgeBilgi_API.csproj",
+        "packagesPath": "C:\\Users\\batut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\batut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Infrastructure\\EgeBilgi_Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Infrastructure\\EgeBilgi_Infrastructure.csproj"
+              },
+              "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_MediatR\\EgeBilgi_MediatR.csproj": {
+                "projectPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_MediatR\\EgeBilgi_MediatR.csproj"
+              },
+              "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Persistence\\EgeBilgi_Persistence.csproj": {
+                "projectPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Persistence\\EgeBilgi_Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Application\\EgeBilgi_Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Application\\EgeBilgi_Application.csproj",
+        "projectName": "EgeBilgi_Application",
+        "projectPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Application\\EgeBilgi_Application.csproj",
+        "packagesPath": "C:\\Users\\batut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\batut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Domain\\EgeBilgi_Domain.csproj": {
+                "projectPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Domain\\EgeBilgi_Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Domain\\EgeBilgi_Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Domain\\EgeBilgi_Domain.csproj",
+        "projectName": "EgeBilgi_Domain",
+        "projectPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Domain\\EgeBilgi_Domain.csproj",
+        "packagesPath": "C:\\Users\\batut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\batut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Infrastructure\\EgeBilgi_Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Infrastructure\\EgeBilgi_Infrastructure.csproj",
+        "projectName": "EgeBilgi_Infrastructure",
+        "projectPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Infrastructure\\EgeBilgi_Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\batut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\batut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Application\\EgeBilgi_Application.csproj": {
+                "projectPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Application\\EgeBilgi_Application.csproj"
+              },
+              "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Persistence\\EgeBilgi_Persistence.csproj": {
+                "projectPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Persistence\\EgeBilgi_Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_MediatR\\EgeBilgi_MediatR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_MediatR\\EgeBilgi_MediatR.csproj",
+        "projectName": "EgeBilgi_MediatR",
+        "projectPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_MediatR\\EgeBilgi_MediatR.csproj",
+        "packagesPath": "C:\\Users\\batut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_MediatR\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\batut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Application\\EgeBilgi_Application.csproj": {
+                "projectPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Application\\EgeBilgi_Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Persistence\\EgeBilgi_Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Persistence\\EgeBilgi_Persistence.csproj",
+        "projectName": "EgeBilgi_Persistence",
+        "projectPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Persistence\\EgeBilgi_Persistence.csproj",
+        "packagesPath": "C:\\Users\\batut\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\batut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Domain\\EgeBilgi_Domain.csproj": {
+                "projectPath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Domain\\EgeBilgi_Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

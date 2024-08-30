@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EgeBilgi_API.props" />
+</Project>

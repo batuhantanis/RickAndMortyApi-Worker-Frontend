@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GMQlUraH+X71tDErG4wvmSks6tNsBeskokwsOPodzTbWXcyGPoqpFbdUR3S9TVhw8F9cKUUiMvZGAw18xhEIxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\batut\\Desktop\\EgeBilgi_Task\\egebilgi_backend\\EgeBilgi_Application\\EgeBilgi_Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batut\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

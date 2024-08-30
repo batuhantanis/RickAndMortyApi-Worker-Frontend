@@ -1,0 +1,17 @@
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\bin\Debug\net7.0\EgeBilgi_MediatR.deps.json
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\bin\Debug\net7.0\EgeBilgi_MediatR.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\bin\Debug\net7.0\EgeBilgi_MediatR.pdb
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\bin\Debug\net7.0\EgeBilgi_Application.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\bin\Debug\net7.0\EgeBilgi_Domain.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\bin\Debug\net7.0\EgeBilgi_Application.pdb
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\bin\Debug\net7.0\EgeBilgi_Domain.pdb
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\obj\Debug\net7.0\EgeBilgi_MediatR.csproj.AssemblyReference.cache
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\obj\Debug\net7.0\EgeBilgi_MediatR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\obj\Debug\net7.0\EgeBilgi_MediatR.AssemblyInfoInputs.cache
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\obj\Debug\net7.0\EgeBilgi_MediatR.AssemblyInfo.cs
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\obj\Debug\net7.0\EgeBilgi_MediatR.csproj.CoreCompileInputs.cache
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\obj\Debug\net7.0\EgeBilgi_MediatR.csproj.CopyComplete
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\obj\Debug\net7.0\EgeBilgi_MediatR.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\obj\Debug\net7.0\refint\EgeBilgi_MediatR.dll
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\obj\Debug\net7.0\EgeBilgi_MediatR.pdb
+C:\Users\batut\Desktop\EgeBilgi_Task\egebilgi_backend\EgeBilgi_MediatR\obj\Debug\net7.0\ref\EgeBilgi_MediatR.dll
